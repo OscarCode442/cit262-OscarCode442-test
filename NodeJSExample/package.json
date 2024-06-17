@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+<<<<<<< HEAD
     "hello": "node helloworld.js"
+=======
+    "hello":"node helloworld.js"  
+>>>>>>> ee1751012f595c8ad604ab92bdc36d77422e0518
   },
   "repository": {
     "type": "git",
