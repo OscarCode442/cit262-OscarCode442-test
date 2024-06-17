@@ -6,8 +6,11 @@
   "scripts": {
     "test": "jest",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "hello": "node helloworld.js"
 =======
+=======
+>>>>>>> mock_function
     "hello":"node helloworld.js"  
 >>>>>>> ee1751012f595c8ad604ab92bdc36d77422e0518
   },
