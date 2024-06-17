@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "hello":"node helloworld.js"  
+    "test": "jest",
+    "hello": "node helloworld.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/OscarCode442/cit262-OscarCode442-test"
   },
   "author": "Ukaegbu Japhet Oscar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
